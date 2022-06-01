@@ -59,14 +59,14 @@ requestRegex = "#[rR][eE][qQ][uU][eE][sS][tT] "
 async def startHandler(bot:Update, msg:Message):
     botInfo = await bot.get_me()
     await msg.reply_text(
-        "<b>Hi, I am Request Tracker Bot🤖.\nIf you hadn't added me in your Group & Channel then ➕add me now.\n\nHow to Use me?</b>\n\t1. Add me to your Group & CHannel.\n\t2. Make me admin in both Channel & Group.\n\t3. Give permission to Post , Edit & Delete Messages.\n\t4. Now send Group ID & Channel ID in this format <code>/add GroupID ChannelID</code>.\nNow Bot is ready to be used.\n\n<b>😊Join @AJPyroVerse & @AJPyroVerseGroup for getting more awesome 🤖bots like this.</b>",
+        "<b>Hi, I am Request Bot Made for @Anime_Uploadz.\nIf you haven't checked our Anime channel make sure to check out.\n\nHow to Request in Our Chanel??</b>\n\t1. Join @Miyamura_Family.\n\t2. Type #request  (anime name)\n\t3. Wait until admins look at your post and accept it , After Accepting your request we will post asap.\n\t4. Created By: @VoidxNetwork 💫.</b>",
         parse_mode = "html",
         reply_markup = InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "➕Add me to your Group.",
-                        url = f"https://telegram.me/{botInfo.username}?startgroup=true"
+                        "--| Anime Uploadz |--",
+                        url = f"https://t.me/anime_Uploadz"
                     )
                 ]
             ]
@@ -303,7 +303,7 @@ async def requestHandler(bot:Update, msg:Message):
                     [
                         [
                             InlineKeyboardButton(
-                                "⏳Request Status⏳",
+                                "× Request Status ×",
                                 url = f"https://t.me/c/{channelIDPro}/{requestMSG.message_id}"
                             )
                         ]
