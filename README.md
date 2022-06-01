@@ -31,7 +31,7 @@ These ScreenShots might help you to understand this bot well.
 ## Direct Deploy
 Click Below Button to Deploy your Bot.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AJTimePyro/RequestBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=(https://github.com/Voidxtoxic/RequestTrackerBot/tree/patch-1)
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FAJTimePyro%2FRequestTrackerBot&envs=API_ID%2CAPI_HASH%2CBOT_TOKEN%2CMONGO_STR&API_IDDesc=+Get+both+from+https%3A%2F%2Fmy.telegram.org&API_HASHDesc=+Get+both+from+https%3A%2F%2Fmy.telegram.org&BOT_TOKENDesc=Get+easily+from+https%3A%2F%2Ft.me%2FBotFather&MONGO_STRDesc=Get+From+MongoDB+Atlas)
 
