@@ -2,10 +2,14 @@
 
 This is a Request Tracker Bot repo, It is for those who upload content like movies, anime, etc. It can be used for tracking request of content that your members asked for.
 
-The owner of this bot is [Augstun](https://t.me/aug0felix), His Telegram [Channel](http://t.me/animengamewall) & [Group](https://t.me/animegamediscussiongrp).
-Don't Forget to give a Star.
+The owner of this bot is [Augstun](https://t.me/aug0felix),
 
-##Other Bot's By Augstun 
+His Telegram [Channel](http://t.me/animengamewall) & [Group](https://t.me/animegamediscussiongrp).
+
+Don't Forget to give a this repo Star.
+
+#Other Bot's By Augstun
+ 
 [Yor Forger](https://t.me/Yor_forger_spyxfamily_bot)
 Source Code Status - private it is bish ofc not gonna keep it public 
 
@@ -31,7 +35,7 @@ Click Below Button to Deploy your Bot.
 
 ## Yor Forger Bot Support And Updates Channel support it vro
 
-<a href="https://t.me/Komisansupport"><img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png" style="width: 300px; height: 100px"></a>
+<a href="https://t.me/Yor_forger_spyxfamily_bot"><img src="https://telegra.ph/file/5d2e69f66b2e8dd576ddf.jpg" style="width: 300px; height: 100px"></a>
 
-<a href="https://t.me/yorforgerbotupdates"><img src="https://www.pngitem.com/pimgs/m/214-2144731_groups-on-telegram-telegram-group-link-png-transparent.png" style="width: 280px; height: 80px"></a>
+<a href="https://t.me/komisansupport"><img src="https://www.pngitem.com/pimgs/m/214-2144731_groups-on-telegram-telegram-group-link-png-transparent.png" style="width: 280px; height: 80px"></a>
 
