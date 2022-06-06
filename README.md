@@ -35,7 +35,7 @@ Click Below Button to Deploy your Bot.
 
 ## Yor Forger Bot Support And Updates Channel support it vro
 
-<a href="https://t.me/Yor_forger_spyxfamily_bot"><img src="https://telegra.ph/file/43cbbf62d0a62a5760f32.jpg" style="width: 300px; height: 100px"></a>
+<a href="https://t.me/Yor_forger_spyxfamily_bot"><img src="https://telegra.ph/file/43cbbf62d0a62a5760f32.jpg" style="width: 800px; height: 400px"></a>
 
 <a href="https://t.me/komisansupport"><img src="https://www.pngitem.com/pimgs/m/214-2144731_groups-on-telegram-telegram-group-link-png-transparent.png" style="width: 280px; height: 80px"></a>
 
