@@ -2,27 +2,15 @@
 
 This is a Request Tracker Bot repo, It is for those who upload content like movies, anime, etc. It can be used for tracking request of content that your members asked for.
 
-The owner of this bot is [AJTimePyro](https://t.me/AJTimePyro), His Telegram [Channel](http://t.me/AJPyroVerse) & [Group](http://t.me/AJPyroVerseGroup).
+The owner of this bot is [Augstun](https://t.me/aug0felix), His Telegram [Channel](http://t.me/animengamewall) & [Group](https://t.me/animegamediscussiongrp).
 Don't Forget to give a Star.
 
-## Some ScreenShots
-These ScreenShots might help you to understand this bot well.
-![](https://raw.githubusercontent.com/AJTimePyro/RequestTrackerBot/master/resources/1.jpg)
-
-![](https://raw.githubusercontent.com/AJTimePyro/RequestTrackerBot/master/resources/2.jpg)
-
-![](https://raw.githubusercontent.com/AJTimePyro/RequestTrackerBot/master/resources/3.jpg)
-
-![](https://raw.githubusercontent.com/AJTimePyro/RequestTrackerBot/master/resources/4.jpg)
-
-![](https://raw.githubusercontent.com/AJTimePyro/RequestTrackerBot/master/resources/5.jpg)
-
-![](https://raw.githubusercontent.com/AJTimePyro/RequestTrackerBot/master/resources/6.jpg)
-
-![](https://raw.githubusercontent.com/AJTimePyro/RequestTrackerBot/master/resources/7.jpg)
+##Other Bot's By Augstun 
+[Yor Forger](https://t.me/Yor_forger_spyxfamily_bot)
+Source Code Status - private it is bish ofc not gonna keep it public 
 
 
-## Requirement
+## Requirement to Deploy Our Request Tracker Bot 
 * API ID & API Hash - Get both from https://my.telegram.org
 * Bot Token - Get easily from [Bot Father](https://t.me/BotFather)
 * MongoDB Connection String - Get From MongoDB Atlas
@@ -31,9 +19,8 @@ These ScreenShots might help you to understand this bot well.
 ## Direct Deploy
 Click Below Button to Deploy your Bot.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yuu-456/req-bruhhhhhhhhhhh)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AUGSTUN/anya_request_bot)
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FAJTimePyro%2FRequestTrackerBot&envs=API_ID%2CAPI_HASH%2CBOT_TOKEN%2CMONGO_STR&API_IDDesc=+Get+both+from+https%3A%2F%2Fmy.telegram.org&API_HASHDesc=+Get+both+from+https%3A%2F%2Fmy.telegram.org&BOT_TOKENDesc=Get+easily+from+https%3A%2F%2Ft.me%2FBotFather&MONGO_STRDesc=Get+From+MongoDB+Atlas)
 
 ## How to use?
 1. Deploy your Bot on Heroku
@@ -42,9 +29,9 @@ Click Below Button to Deploy your Bot.
 4. Send ID of Group & Channel in this format `/add groupID channelID` to Bot.
 5. Now any user of group can request for content by using #request Keyword.
 
-## Support Telegram Group and Channel
+## Yor Forger Bot Support And Updates Channel support it vro
 
-<a href="http://t.me/AJPyroVerse"><img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png" style="width: 300px; height: 100px"></a>
+<a href="https://t.me/Komisansupport"><img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png" style="width: 300px; height: 100px"></a>
 
-<a href="http://t.me/AJPyroVerseGroup"><img src="https://www.pngitem.com/pimgs/m/214-2144731_groups-on-telegram-telegram-group-link-png-transparent.png" style="width: 280px; height: 80px"></a>
+<a href="https://t.me/yorforgerbotupdates"><img src="https://www.pngitem.com/pimgs/m/214-2144731_groups-on-telegram-telegram-group-link-png-transparent.png" style="width: 280px; height: 80px"></a>
 
