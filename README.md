@@ -1,4 +1,4 @@
-# Request Tracker Bot
+# Anya Forger Request Tracker Bot
 
 This is a Request Tracker Bot repo, It is for those who upload content like movies, anime, etc. It can be used for tracking request of content that your members asked for.
 
