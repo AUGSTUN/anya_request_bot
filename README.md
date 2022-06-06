@@ -4,7 +4,7 @@ This is a Request Tracker Bot repo, It is for those who upload content like movi
 
 The owner of this bot is [Augstun](https://t.me/aug0felix),
 
-His Telegram [Channel](http://t.me/animengamewall) & [Group](https://t.me/animegamediscussiongrp).
+His Telegram [Channel](http://t.me/animengameswall) & [Group](https://t.me/animegamediscussiongrp).
 
 Don't Forget to give a this repo Star.
 
